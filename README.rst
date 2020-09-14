@@ -1,6 +1,10 @@
-rise
-====
+say hi@risebeyond.io
+====================
 
 *learn and spread sustainable tech and beyond tech ideas*
 
 *non-profit open-source initiative to unite like-minded community*
+
+*say hi@risebeyond.io*
+
+*say hello@risebeyond.io*
