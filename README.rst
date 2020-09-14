@@ -7,3 +7,9 @@ rise
 
 | bad gramar huse 
 | speling mistakei  
+
+|
+
+incorect teks hiret
+
+
