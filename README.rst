@@ -1,5 +1,9 @@
-say hi@risebeyond.io
-====================
+say hi to risebeyond.io
+=======================
+
+say hello to risebeyond.io
+==========================
+
 
 *learn and spread sustainable tech and beyond tech ideas*
 
