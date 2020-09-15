@@ -24,12 +24,17 @@ beyond
 
 |
 
+*all non technical content*
+
+|
+
 --
 io
 --
+
 |
 
-`tecnical content`
+*all technology content*
 
 |
 
