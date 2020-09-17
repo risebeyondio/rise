@@ -3,7 +3,7 @@ manifesto
 
 |
 
-link to our manifesto below 
+*link to our manifesto below*
 
 |
 
@@ -11,18 +11,8 @@ link to our manifesto below
 
 |
 
-.. comment --> depth describes headings level inclusion
-.. contents:: contents
-   :depth: 10
 
-|
-
-manifesto
-=========
-
-|
-
-
+- `references <https://github.com/risebeyondio/rise/blob/master/manifesto.rst>`_
 
 |
 
