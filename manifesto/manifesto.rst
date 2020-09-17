@@ -59,7 +59,11 @@ initial coverage - the scope
   
   traditional and modern woodworking
   
-  family - kids, parenthood,  motherhood, fatherhood 
+  family - kids, parenthood,  motherhood, fatherhood
+  
+  photography
+  
+  other hobbies ...
 
 |
 
