@@ -12,8 +12,8 @@ manifesto
 
 |
 
-references
-==========
+references and acknowledgements
+===============================
 
 |
 
