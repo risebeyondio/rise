@@ -17,7 +17,7 @@ who
 
 |
 
-We are Non Profit, Open Source Collective - Initiative to unite like minded community to learn, practice and spread sustainable tech and beyond tech ideas.
+we are non profit, open source collective - initiative to unite like minded community to learn, practice and spread sustainable tech and beyond tech ideas
 
 |
 
