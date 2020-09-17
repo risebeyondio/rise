@@ -3,10 +3,6 @@ manifesto
 
 |
 
-*link to our manifesto below*
-
-|
-
 `home <https://github.com/risebeyondio>`_
 
 |
