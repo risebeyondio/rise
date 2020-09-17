@@ -42,4 +42,5 @@ io
 |
 
 ----
+
 `references and acknowlegments <https://github.com/risebeyondio/rise/tree/master/references>`_
