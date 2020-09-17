@@ -1,5 +1,5 @@
-references
-----------
+references and acknowledgements
+-------------------------------
 
 |
 
@@ -12,7 +12,6 @@ references
    :depth: 10
 
 |
-
 
 beyond
 ======
@@ -36,5 +35,29 @@ io
 - https://linuxacademy.com
 
 |
+
+acknowledgements
+----------------
+
+
+beyond
+======
+
+|
+
+*all non technical content*
+
+|
+
+
+io
+==
+
+|
+
+*all technology content*
+
+|
+
 
 references_
