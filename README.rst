@@ -3,9 +3,7 @@ rise
 
 |
 
-*non profit, Open Source Collective - Initiative to unite like minded community*
-
-*learn, practice and spread sustainable tech and beyond tech ideas*
+*we are Non Profit, Open Source Collective - Initiative to unite like minded community to learn, practice and spread sustainable tech and beyond tech ideas*
 
 |
 
