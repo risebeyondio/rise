@@ -37,7 +37,7 @@ io
 
 |
 
-`manifesto <https://github.com/risebeyondio/rise/blob/master/manifesto/manifesto.rst>`
+`manifesto <https://github.com/risebeyondio/rise/blob/master/manifesto/manifesto.rst>`_
 
 |
 
