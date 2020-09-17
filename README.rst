@@ -37,6 +37,9 @@ io
 
 |
 
-----
+`manifesto <https://github.com/risebeyondio/rise/blob/master/manifesto/manifesto.rst>`
 
-- `references and acknowlegments <https://github.com/risebeyondio/rise/tree/master/references>`_
+|
+
+----
+`references and acknowlegments <https://github.com/risebeyondio/rise/tree/master/references>`_
