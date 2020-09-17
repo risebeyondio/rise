@@ -8,7 +8,7 @@
 |
 
 .. comment --> depth describes headings level inclusion
-.. contents:: references
+.. contents:: contents
    :depth: 10
 
 |
@@ -65,4 +65,4 @@ io
 |
 
 
-references_
+contents_
