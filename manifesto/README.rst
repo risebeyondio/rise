@@ -12,10 +12,6 @@ manifesto
 
 |
 
-contents_
-
-|
-
 ----
 
 |
