@@ -12,7 +12,7 @@ manifesto
 |
 
 
-- `references <https://github.com/risebeyondio/rise/blob/master/manifesto.rst>`_
+- `manifesto <https://github.com/risebeyondio/rise/blob/master/manifesto.rst>`_
 
 |
 
