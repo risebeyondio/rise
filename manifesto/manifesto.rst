@@ -82,15 +82,13 @@ initial coverage - the scope
   
   Sustainability as Code - SaC
   
-  everything as Sustainable Code - EaSC,
+  Everything as Sustainable Code - EaSC,
   
   green energy tech
   
   automation
   
   ai and ml
-
-|
 
 why
 ===
