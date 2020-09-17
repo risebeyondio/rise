@@ -54,8 +54,6 @@ io
 
 |
 
-**references and acknowlegments**
+----
 
-|
-
-- `references <https://github.com/risebeyondio/rise/tree/master/references>`_
+- `references and acknowlegments <https://github.com/risebeyondio/rise/tree/master/references>`_
