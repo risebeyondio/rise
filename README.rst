@@ -19,23 +19,6 @@ rise
 
 |
 
-manifesto
-=========
-
-|
-
-*v.0.1.0*
-
-|
-
-*non profit, Open Source Collective - Initiative to unite like minded community*
-
-*learn, practice and spread sustainable tech and beyond tech ideas*
-
-* Open Source, Non Profit, ecology, sustainability, Everything as Sustainable Code - EaSC, Sustainability as Code -  SaC, green energy, ecological sustainable farming and gardening,  permaculture, diversity, equality, Woman in Technology, recycling, health and wellbeing, craft, traditional and modern woodworking, family, parenthood, fatherhood, motherhood*
-
-|
-
 beyond
 ======
 
