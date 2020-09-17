@@ -19,8 +19,12 @@ rise
 
 |
 
-manifesto - draft v0.1.0 
-========================
+manifesto
+=========
+
+|
+
+*v.0.1.0*
 
 |
 
@@ -39,6 +43,8 @@ beyond
 
 - `beyond <https://github.com/risebeyondio/beyond>`_
 
+|
+
 io
 ==
 
@@ -48,9 +54,7 @@ io
 
 |
 
-
 **references and acknowlegments**
-
 
 |
 
