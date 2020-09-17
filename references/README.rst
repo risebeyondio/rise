@@ -13,8 +13,13 @@ references and acknowledgements
 
 |
 
+references
+==========
+
+|
+
 beyond
-======
+------
 
 |
 
@@ -24,7 +29,7 @@ beyond
 
 
 io
-==
+--
 
 |
 
@@ -37,11 +42,11 @@ io
 |
 
 acknowledgements
-----------------
+================
 
 
 beyond
-======
+------
 
 |
 
@@ -51,7 +56,7 @@ beyond
 
 
 io
-==
+--
 
 |
 
