@@ -12,12 +12,11 @@ manifesto
 
 |
 
-references and acknowledgements
-===============================
+----
 
 |
 
-- `references <https://github.com/risebeyondio/rise/blob/master/references>`_
+`references and acknowledgements <https://github.com/risebeyondio/rise/blob/master/references>`_
 
 |
 
