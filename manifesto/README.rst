@@ -1,5 +1,5 @@
-manifesto
----------
+manifesto [draft]
+-----------------
 
 |
 
