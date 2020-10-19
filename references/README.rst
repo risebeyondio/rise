@@ -55,7 +55,7 @@ ansible
 
 |
 
-`linux academy - Red Hat Certified Specialist in Ansible Automation (EX407) Preparation Course <https://linuxacademy.com/cp/modules/view/id/198>`_
+- `linux academy - Red Hat Certified Specialist in Ansible Automation (EX407) Preparation Course <https://linuxacademy.com/cp/modules/view/id/198>`_
 
 |
 
