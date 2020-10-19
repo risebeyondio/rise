@@ -45,8 +45,17 @@ kubernetes deep dive
 
 |
 
-- `linux academy - cloud native certified kubernetes administrator <https://linuxacademy.com/cp/modules/view/id/327?redirect_uri=https://app.linuxacademy.com/search?query=Cloud%20Native%20Certified%20Kubernetes%20Administrator>`_
+- `linux academy - cloud native certified kubernetes administrator <https://linuxacademy.com/cp/modules/view/id/327>`_
 
+|
+
+*******
+ansible
+*******
+
+|
+
+`linux academy - Red Hat Certified Specialist in Ansible Automation (EX407) Preparation Course <https://linuxacademy.com/cp/modules/view/id/198>`_
 
 |
 
