@@ -45,7 +45,7 @@ kubernetes deep dive
 
 |
 
-- `linux academy  Cloud Native Certified Kubernetes Administrator <https://linuxacademy.com/cp/modules/view/id/327?redirect_uri=https://app.linuxacademy.com/search?query=Cloud%20Native%20Certified%20Kubernetes%20Administrator>`_
+- `linux academy - cloud native certified kubernetes administrator <https://linuxacademy.com/cp/modules/view/id/327?redirect_uri=https://app.linuxacademy.com/search?query=Cloud%20Native%20Certified%20Kubernetes%20Administrator>`_
 
 
 |
@@ -58,7 +58,7 @@ beyond
 
 |
 
-*all non technical content*
+*non technical content*
 
 |
 
