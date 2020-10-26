@@ -57,6 +57,8 @@ ansible
 
 - `Linux Academy - Red Hat Certified Specialist in Ansible Automation (EX407) Preparation Course <https://linuxacademy.com/cp/modules/view/id/198>`_
 
+- `Udemy - Mastering Ansible <https://www.udemy.com/course/mastering-ansible-x/learn/lecture/9300288?start=630#overview>`_
+
 |
 
 acknowledgements
