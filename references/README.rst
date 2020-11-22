@@ -46,7 +46,7 @@ kubernetes deep dive
 |
 
 - `Linux Academy - Cloud Native Certified Kubernetes Administrator <https://linuxacademy.com/cp/modules/view/id/327>`_
-- `Kubernetes Tutorial for Beginners <https://www.youtube.com/watch?v=X48VuDVv0do>`_
+- ` TechWorld with Nana - Kubernetes Tutorial for Beginners <https://www.youtube.com/watch?v=X48VuDVv0do>`_
 
 |
 
