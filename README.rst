@@ -3,10 +3,6 @@ rise
 
 |
 
-*we are non profit, open source collective - initiative to unite like minded community to learn, practice and spread sustainable tech and beyond tech ideas*
-
-|
-
 `home <https://github.com/risebeyondio>`_
 
 |
